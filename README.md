@@ -1,5 +1,6 @@
 # Token Duplication to NT AUTHORITY\SYSTEM
 ![look at that bro](/img/image.png)
+
 A simple C++ project demonstrating how easy it is to duplicate a token from the `lsass.exe` process to become `NT AUTHORITY\SYSTEM`.
 
 ## Prerequisites
