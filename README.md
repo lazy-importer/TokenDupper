@@ -10,7 +10,7 @@ A simple C++ project demonstrating how easy it is to duplicate a token from the 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/lazy-importer/TokenDupper
+   git clone https://github.com/lazy-importer/TokenDupper.git
 
 Usage
 
